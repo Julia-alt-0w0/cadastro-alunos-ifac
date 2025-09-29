@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Cadastro de alunos de cursos superiores IFAC
 
 <strong>Acesse agora o projeto:</strong> http://127.0.0.1:8000/students/create 
